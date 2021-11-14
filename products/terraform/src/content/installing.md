@@ -29,10 +29,10 @@ Terraform v0.11.6
 On Linux, download and place the binary in your $PATH.
 
 ```sh
-$ wget -q https://releases.hashicorp.com/terraform/0.11.6/terraform_0.11.6_linux_amd64.zip
+$ wget -q https://releases.hashicorp.com/terraform/1.0.11/terraform_1.0.11_linux_amd64.zip
 
-$ unzip terraform_0.11.6_linux_amd64.zip
-Archive:  terraform_0.11.6_linux_amd64.zip
+$ unzip terraform_1.0.11_linux_amd64.zip
+Archive:   terraform_1.0.11_linux_amd64.zip
   inflating: terraform
 
 $ sudo mv terraform /usr/local/bin/terraform
